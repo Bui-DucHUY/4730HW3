@@ -11,7 +11,7 @@
         class="search-bar"
       />
       <select v-model="filterStatus" class="filter-select">
-        <option value="All">All Statuses</option>
+        <option value="All">All</option>
         <option value="Active">Active Only</option>
         <option value="Completed">Completed Only</option>
       </select>

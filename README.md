@@ -9,8 +9,8 @@ Homework 3: Building a web application frontend with Vue.js
 
 ## How to Run the Project
 1. Navigate into the `taskmaster` directory:
-   cd taskmaster
+   `cd taskmaster`
 2. Install dependencies:
-   npm install
+   `npm install`
 3. Run the development server:
-   npm run dev
+   `npm run dev` (then click on the `http://localhost:WXYZ/` URL at the terminal output or enter `o` to open the browser window.)

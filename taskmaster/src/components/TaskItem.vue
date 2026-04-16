@@ -38,7 +38,7 @@ const props = defineProps({
 
 defineEmits(['toggle-status', 'delete-task'])
 
-// Bonus Focus Mode Timer Logic (25 min = 1500 seconds)
+// Timer
 const timeLeft = ref(1500)
 const timerRunning = ref(false)
 let timerId = null

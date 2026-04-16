@@ -50,7 +50,7 @@ onMounted(() => {
   }
 })
 
-// Watcher: Save to LocalStorage automatically when tasks array changes deeply
+// Watcher
 watch(tasks, (newTasks) => {
   localStorage.setItem('taskmaster-tasks', JSON.stringify(newTasks))
 }, { deep: true })

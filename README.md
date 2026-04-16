@@ -8,8 +8,8 @@ Homework 3: Building a web application frontend with Vue.js
 - Bonus: 25-Minute Pomodoro Focus Timer per task
 
 ## How to Run the Project
-1. Navigate into the `hw3` directory:
-   cd hw3
+1. Navigate into the `taskmaster` directory:
+   cd taskmaster
 2. Install dependencies:
    npm install
 3. Run the development server:

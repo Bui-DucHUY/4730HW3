@@ -1,7 +1,7 @@
 <template>
   <div class="app-container">
     <header class="navbar">
-      <h1>TaskMaster Pro</h1>
+      <h1>TaskMaster HW</h1>
       <nav>
         <RouterLink to="/">Dashboard</RouterLink>
         <RouterLink to="/about">About</RouterLink>

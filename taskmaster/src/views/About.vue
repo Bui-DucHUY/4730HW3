@@ -1,6 +1,6 @@
 <template>
   <div class="card about-page">
-    <h2>CSC 4370 HW3</h2>
+    <h2>Bùi Đức Huy</h2>
     <p>Build a functional task management dashboard that emphasizes state management and component communication.</p>
     
     <h3>The Pomodoro Technique</h3>

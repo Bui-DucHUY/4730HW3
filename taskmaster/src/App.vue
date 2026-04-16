@@ -1,7 +1,7 @@
 <template>
   <div class="app-container">
     <header class="navbar">
-      <h1>TaskMaster HW</h1>
+      <h1>CSC 4370 | Home Work 3</h1>
       <nav>
         <RouterLink to="/">Dashboard</RouterLink>
         <RouterLink to="/about">About</RouterLink>
